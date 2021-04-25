@@ -1,4 +1,5 @@
-[![HitCount](http://hits.dwyl.com/AvivYaniv/Python-Challenge.svg)](http://hits.dwyl.com/AvivYaniv/Python-Challenge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AvivYaniv.Python-Challenge.issue.1) <br/>
+[![HitCount](http://hits.dwyl.com/AvivYaniv/Python-Challenge.svg)](http://hits.dwyl.com/AvivYaniv/Python-Challenge) <br/>
 
 # Python-Challenge
 
